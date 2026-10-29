@@ -1,0 +1,10 @@
+# Verify against the current Meridian installation instructions before deployment.
+google-meridian
+jupyterlab
+ipykernel
+ipywidgets
+jupyterlab_widgets
+numpy
+pandas
+matplotlib
+seaborn

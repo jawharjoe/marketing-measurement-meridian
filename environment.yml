@@ -1,0 +1,15 @@
+name: meridian-mmm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - google-meridian
+      - jupyterlab
+      - ipykernel
+      - ipywidgets
+      - jupyterlab_widgets
+      - numpy
+      - pandas
+      - matplotlib
