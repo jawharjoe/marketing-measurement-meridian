@@ -30,6 +30,10 @@ The repo is an **educational demonstration, not a production-validated causal mo
 | [MMM interpretation](docs/reading_meridian_results.md) | Fit, contributions, R-hat, saturation, scenarios, and causal cautions |
 | [From 4Ps to 7Ps to 7Gs](docs/marketing_4p_7p_7g.md) | Summary of the proposed AI-era marketing framework and discussion questions |
 
+## Visual results from the workshop
+
+Explore the [annotated results gallery](docs/visual_results.md) for adstock, model fit, Hill saturation, response curves, the xarray response grid, and the interactive budget-reallocation demonstration. The screenshots are synthetic teaching outputs; their interpretation and limitations are documented in the gallery.
+
 ## Run the workshop on your computer
 
 Python 3.11 is a reasonable starting point; Meridian version compatibility may change. This repository does **not** bundle a trained posterior. Bayesian sampling can take substantial time on a CPU.
